@@ -37,3 +37,6 @@ func normalizeVector(vector, maxValue = 1):
 		value.y = vector.y - dif / 2
 	
 	return value
+
+func hurt():
+	pass
