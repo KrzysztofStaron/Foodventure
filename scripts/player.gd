@@ -1,5 +1,4 @@
 extends KinematicBody2D
-
 const speed = 100
 
 var velocity = Vector2.ZERO
