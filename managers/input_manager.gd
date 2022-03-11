@@ -14,8 +14,8 @@ var _first_pressed : Dictionary
 func axis(negative_input : String, positive_input : String, reversed : bool = false) -> int:
 	var type := ""
 	
-	var KEY = 0
-	var TYPE = 1
+	var KEY := 0
+	var TYPE := 1
 
 	var direction := 1 if !reversed else -1 
 
