@@ -10,3 +10,5 @@ position = Vector2( 39, 47 )
 speed = 85
 
 [node name="grass" parent="." instance=ExtResource( 2 )]
+start = Vector2( -30, -20 )
+end = Vector2( 60, 35 )

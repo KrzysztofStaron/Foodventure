@@ -6,8 +6,6 @@ var _correlations := [
 	["move_left", "move_horizontal"],
 	["move_up", "move_vertical"],
 ]
-func _ready():
-	print(_correlations.hash())
 
 var _first_pressed : Dictionary
 
